@@ -5,11 +5,12 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import Formulario from './components/formulario.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    formulario,
   }
 }
 </script>
